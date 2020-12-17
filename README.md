@@ -16,5 +16,6 @@ After almost 3 months of working to complete all the tasks connected with *PyChe
 I've learnt many things through this experience which I will surely find helpful in the future. Not only about the tools, but mostly about the team work. 
 
 Check out our *PyChess* repository:
+
 https://github.com/AGH-Narzedzia-Informatyczne/PyChess
 
